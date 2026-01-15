@@ -91,18 +91,6 @@ git push -u origin main
 
 ## 🎨 Customization
 
-### Colors
-Edit the CSS variables in `style.css`:
-
-```css
-:root {
-    --primary-red: #e63946;
-    --dark-red: #a4161a;
-    --light-red: #f77f88;
-    /* ... other colors */
-}
-```
-
 ### Content
 Edit `index.html` to:
 - Change your name, title, and description
