@@ -1,4 +1,4 @@
-# - Cybersecurity Portfolio -
+# - Professional Modern Portfolio -
 
 A modern, professional portfolio website for a cybersecurity expert and red team operator. Designed with a sleek red gradient theme and built with vanilla HTML, CSS, and JavaScript.
 
@@ -17,7 +17,7 @@ A modern, professional portfolio website for a cybersecurity expert and red team
 ```
 Portfolio/
 ├── index.html          # Main portfolio page
-├── style.css           # Styling with red gradient theme
+├── style.css           # Styling with purlple and Blue gradient theme
 ├── script.js           # Interactive functionality
 ├── README.md           # This file
 └── .gitignore          # Git ignore file
